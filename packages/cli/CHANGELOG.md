@@ -1,5 +1,14 @@
 # vercel
 
+## 35.1.1
+
+### Patch Changes
+
+- Standardize target parsing between commands ([#11890](https://github.com/vercel/vercel/pull/11890))
+
+- Updated dependencies [[`778166776`](https://github.com/vercel/vercel/commit/778166776e09530128a005ce7ef0fbc56b8fe4a3)]:
+  - @vercel/static-build@2.5.18
+
 ## 35.1.0
 
 ### Minor Changes
